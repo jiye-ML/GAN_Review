@@ -1,0 +1,1 @@
+* [一些fancy的GAN应用](https://mp.weixin.qq.com/s/0I8jLO3srXC3fUdoMC585w)
